@@ -9,7 +9,8 @@
 
 ### 🛠️ Skills & Tools (growing list)
 - Git & GitHub  
-- Python (beginner → advancing)  
+- Python (beginner → advancing)
+- HTML and CSS
 - Web3 concepts (NFTs, Blockchain Infra)  
 - AI basics & Digital Creativity  
 
@@ -18,7 +19,8 @@
 ✨ *Still learning, still building, always contributing.*## Hi there 👋
 
 <!--
-**SUAD-UX/SUAD-UX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats
+![Su's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUAD-UX&show_icons=true&theme=radical)**SUAD-UX/SUAD-UX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
